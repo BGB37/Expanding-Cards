@@ -1,2 +1,2 @@
 # Expanding-Cards
-Expanding cards animation
+Expanding cards animation for your pages with a smooth expand effect.
